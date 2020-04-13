@@ -4,7 +4,7 @@ import socket
 """
 This is where things will go eventually
 """
-hostname = "www.google.com"
+hostname = "www.thefarmerwithanm.org"
 #cert = CertInfo(host=hostname, port=443)
 #info = cert.cipher()
 
